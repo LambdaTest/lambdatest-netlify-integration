@@ -6,7 +6,11 @@ const surface = integrationUI.addSurface("integrations-settings");
 const route = surface.addRoute("/");
 
 route.addText({
-    value: "Welcome to the LambdaTest integration",
+    value: "Configure your LambdaTest integration",
+});
+route.addLink({
+    href: "https://accounts.lambdatest.com/register",
+    text: "Don't have a LambdaTest account yet? Sign up for free here",
 });
 
 route.addForm(
@@ -40,12 +44,16 @@ route.addForm(
             id: "project",
             label: "SmartUI Project Name",
         });
+        card.addLink({
+            href: "https://smartui.lambdatest.com/",
+            text: "You can find the above details here",
+        });
     }
 );
 
 route.addLink({
-    href: "https://mysitename.netlify.app",
-    text: "Learn more about this integration",
+    href: "https://staging.lambdatestinternal.com/support/docs/netlify-integration-with-lambdatest/",
+    text: "Having trouble? Check out our documentation here",
 });
 
 export { integrationUI };
