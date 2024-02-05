@@ -52,7 +52,7 @@ route.addForm(
 );
 
 route.addLink({
-    href: "https://staging.lambdatestinternal.com/support/docs/netlify-integration-with-lambdatest/",
+    href: "https://lambdatest.com/support/docs/netlify-integration-with-lambdatest/",
     text: "Having trouble? Check out our documentation here",
 });
 
