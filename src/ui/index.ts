@@ -6,7 +6,7 @@ const surface = integrationUI.addSurface("integrations-settings");
 const route = surface.addRoute("/");
 
 route.addText({
-    value: "Configure your LambdaTest integration",
+    value: "Configure your LambdaTest integration to start testing static HTML files in your website.",
 });
 route.addLink({
     href: "https://accounts.lambdatest.com/register",
