@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
-  <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-Integration-00C7B7.svg?style=for-the-badge&logo=netlify&labelColor=000" alt="Netlify"></a>
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
