@@ -1,4 +1,4 @@
-# Run Netlify Integration Tests on TestMu AI (Formerly LambdaTest)
+﻿# Run Netlify Integration Tests on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -17,10 +17,10 @@ With TestMu AI (Formerly LambdaTest), you can run Netlify integration tests acro
 
 ### Prerequisites
 
-- A [TestMu AI account](https://www.testmuai.com/register/). Retrieve your **Username** and **Access Key** from the [TestMu AI Automation Dashboard](https://automation.testmuai.com/).
-- [Node.js](https://nodejs.org/) (LTS version recommended).
-- A [Netlify](https://www.netlify.com/) account.
-- [Netlify CLI](https://docs.netlify.com/cli/get-started/) installed globally:
+- A TestMu AI account. Retrieve your **Username** and **Access Key** from the TestMu AI Automation Dashboard.
+- Node.js (LTS version recommended).
+- A Netlify account.
+- Netlify CLI installed globally:
   ```bash
   npm install -g netlify-cli
   ```
